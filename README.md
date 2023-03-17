@@ -1,3 +1,1 @@
-This is my-awesome-project
-
-this my first changes in gitlab web ide
+This is my test problem "calc" for company kata <3
